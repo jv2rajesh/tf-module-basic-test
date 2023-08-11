@@ -34,5 +34,6 @@ EOF
   }
 }
 
+
 /*depends_on - Above null_resource will execute after creating a aws_route53 record*/
 /*session-28*/
